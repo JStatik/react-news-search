@@ -1,0 +1,26 @@
+.search {
+    margin-bottom: 0;
+    margin-top: 1rem;
+    text-align: left;
+}
+
+.heading {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.news_select {
+    --webkit-appearance: none;
+    border: solid 1px #880e4f !important;
+    outline: none;
+}
+
+.news_select:focus {
+    outline: none !important;
+}
+
+.btn_block {
+    width: 100%;
+}
